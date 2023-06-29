@@ -1,0 +1,21 @@
+{
+    "Gym": [
+        "Lunes 9:00 AM",
+        "Mi\u00e9rcoles 6:00 PM",
+        "Viernes 8:30 AM"
+    ],
+    "Yoga": [
+        "Martes 7:30 AM",
+        "Jueves 6:00 PM"
+    ],
+    "Futbol": [
+        "Lunes 5:00 PM",
+        "Mi\u00e9rcoles 7:00 PM",
+        "Viernes 4:30 PM"
+    ],
+    "Natacion": [
+        "Martes 5:30 PM",
+        "Jueves 4:00 PM",
+        "S\u00e1bado 10:00 AM"
+    ]
+}
